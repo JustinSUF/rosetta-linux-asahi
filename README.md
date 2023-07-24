@@ -1,4 +1,4 @@
-# Hacked RosettaLinux that runs on Asahi Linux
+# Rosetta that runs on Asahi Linux
 ## A 4k-page kernel is required
 
 ### Download:
