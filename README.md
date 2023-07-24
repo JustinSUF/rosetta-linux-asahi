@@ -2,7 +2,7 @@
 ## A 4k-page kernel is required
 
 ### Download:
-[![Patch](https://github.com/CathyKMeow/rosetta-linux-asahi/actions/workflows/patch.yml/badge.svg)](https://github.com/CathyKMeow/rosetta-linux-asahi/actions/workflows/patch.yml)
+[![Patch](https://github.com/JustinSUF/rosetta-linux-asahi/actions/workflows/patch.yml/badge.svg)](https://github.com/JustinSUF/rosetta-linux-asahi/actions/workflows/patch.yml)
 
 ### To extact and patch yourself:
 ``` bash
